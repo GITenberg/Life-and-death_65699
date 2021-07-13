@@ -1,0 +1,41 @@
+_repo: Life-and-death_65699
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Greenstreet, W. J. (William John)
+    alias: Greenstreet, William John
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '44904'
+    url: http://www.gutenberg.org/2009/agents/44904
+    wikipedia: https://en.wikipedia.org/wiki/William_John_Greenstreet
+creator:
+  author:
+    agent_name: Dastre, A. (Albert)
+    aliases:
+    - Dastre, Jules Albert François
+    - Dastre, Jules Albert Franck
+    - Dastre, Jules Albert Francois
+    - Dastre, Albert
+    birthdate: 1844
+    deathdate: 1917
+    gutenberg_agent_id: '53463'
+    url: http://www.gutenberg.org/2009/agents/53463
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Albert_Dastre
+    - https://en.wikipedia.org/wiki/Albert_Dastre
+description: ''
+gutenberg_issued: '2021-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Life (Biology)'
+- GITenberg
+title: Life and death
+url: http://www.gutenberg.org/ebooks/65699
